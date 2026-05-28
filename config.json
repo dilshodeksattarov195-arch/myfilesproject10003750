@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercncrypt",
+        "uuid": 27255000,
+        "checksum": "uvywz"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
